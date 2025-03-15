@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\TFC\trique\resources\views/welcome.blade.php ENDPATH**/ ?>
